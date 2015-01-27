@@ -1,4 +1,4 @@
 # datascience
-205 Datascience class
+Course: DATASCI 205
 
-These are Marlea Gwinn's working documents for Data Science 205: Storing and Retrieving Data.
+These are Marlea Gwinn's assignments and working documents for Data Science 205: Storing and Retrieving Data.
