@@ -1,0 +1,19 @@
+You must turn in a pull request containing the following:
+
+A copy of the output directory for the tag counter running locally (name the directory 'out').
+
+A copy of the output from S3 for the tag counter running on AWS (name the directory 'emr-out').
+
+
+*************
+***Answers***
+*************
+
+How long did it take to run the process for each of these?
+*Locally: 7min 20sec
+*AWS: 	 13min 6sec
+How many address tags are there in the input?
+*2042
+Does the local version and EMR version give the same answer?
+*Yes, both read addresses = 2042.
+
